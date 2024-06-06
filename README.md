@@ -1,4 +1,4 @@
-# Understanding TypeScript
+# TypeScript Classes & Interfaces
 
 Welcome to the "Understanding TypeScript" course repository. This repository contains the code and setup instructions for learning and exploring TypeScript, focusing on classes and interfaces.
 
